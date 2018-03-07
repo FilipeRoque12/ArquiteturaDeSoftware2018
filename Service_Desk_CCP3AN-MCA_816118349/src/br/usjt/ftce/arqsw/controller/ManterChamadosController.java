@@ -1,4 +1,4 @@
-package br.usjt.arqsw.controller;
+package br.usjt.ftce.arqsw.controller;
 
 import java.io.IOException;
 import java.util.List;
